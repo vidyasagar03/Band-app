@@ -1,0 +1,67 @@
+
+.gallery{
+  background-color: rgb(24, 23, 23);
+   padding: 0px 180px 50px 180px;
+}
+
+.text{
+    font: Apple Chancery, cursive;
+background-color: black;
+}
+.card-title, .card-text{
+    color: white;
+}
+.card{
+    border: 2px black;
+}
+.head{
+    color: aliceblue;
+}
+.tickets{
+    background-color: rgb(24, 23, 23);
+    color: white;
+}
+.log{
+    height: 750px;
+    background-color: rgb(24, 23, 23);
+}
+.con{
+    height: 750px;
+    background-color: rgb(24, 23, 23);
+}
+.navbar{
+    background-color: rgb(24, 23, 23);
+   
+}
+.nav-link{
+   padding: 10px; 
+    color: aliceblue;border-radius: 15px;
+}
+.nav-link:hover {
+    background-color: rgb(239, 234, 235);
+    color: rgb(37, 54, 65);
+}
+.navbar-brand{
+    color: aliceblue;
+}
+.Abou{
+    background-color:  rgb(24, 23, 23);
+    color: aliceblue;
+    padding: 10px;
+}
+.lead{
+    font-size: 15px;
+     padding: 20px;
+    word-spacing: 5px;
+}
+.name1{
+    color: aliceblue;
+}
+.fa-solid {
+color: aliceblue;
+font-size: larger;
+}
+.price{
+    padding: 15px;
+}
+
